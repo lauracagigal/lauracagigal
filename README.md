@@ -1,16 +1,15 @@
-## Hi there 👋
+# Dr. Laura Cagigal
 
-<!--
-**lauracagigal/lauracagigal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/lauracagigal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Laura**, a postdoc researcher at [GeoOcean Group]([https://www.example.com](https://geoocean.unican.es/)). 🌊✨  
+I specialize in the development of methodologies for **coastal hazards**, **wave downscaling**, and **climate emulators**.
+
+## 🌟 About Me:
+- 🔭 I’m currently working on climate-related coastal research and in the development of coding open source repositories.
+- 📫 Reach me at: [laura.cagigal@unican.es](mailto:laura.cagigal@unican.es)
+
+## 🗂️ My Repositories
+- [Pacific Climate Indicators](https://github.com/lauracagigal/CC_indicators): atmospheric and ocean climate indicators
+- [Pacific Climate Indicators - setup](https://github.com/lauracagigal/indicators_setup): setup codes for climate indicators
