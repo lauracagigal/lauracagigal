@@ -1,6 +1,8 @@
 # Dr. Laura Cagigal
 
-<a href="https://www.linkedin.com/in/lauracagigal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/lauracagigalgil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://scholar.google.com.au/citations?user=AR4-naYAAAAJ&hl=es&oi=ao"><img src="https://img.shields.io/badge/Google-Scholar-blue" alt="Google Scholar"></a>
+
 
 
 I'm **Laura**, a postdoc researcher at [GeoOcean Group]([https://www.example.com](https://geoocean.unican.es/)). 🌊✨  
