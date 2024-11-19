@@ -8,7 +8,7 @@ I'm **Laura**, a postdoc researcher at [GeoOcean Group]([https://www.example.com
 I specialize in the development of methodologies for **coastal hazards**, **wave downscaling**, and **climate emulators**.
 
 ## 🌟 About Me:
-- 🔭 I’m currently working on climate-related coastal research and in the development of coding open source repositories.
+- 🔭 I’m currently working on climate-related coastal research and in the development of open source repositories.
 - 📫 Reach me at: [laura.cagigal@unican.es](mailto:laura.cagigal@unican.es)
 
 ## 🗂️ My Repositories
