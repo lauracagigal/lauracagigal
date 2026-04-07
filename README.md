@@ -13,5 +13,7 @@ I specialize in the development of methodologies for **coastal hazards**, **wave
 - 📫 Reach me at: [laura.cagigal@unican.es](mailto:laura.cagigal@unican.es)
 
 ## 🗂️ My Repositories
-- [Pacific Climate Indicators](https://github.com/lauracagigal/CC_indicators): atmospheric and ocean climate indicators
+- [Pacific Climate Indicators - report](https://github.com/lauracagigal/CC_indicators_report): Palau - climate indicators report
+- [Pacific Climate Indicators](https://github.com/lauracagigal/CC_indicators): Palau - atmospheric and ocean climate indicators
 - [Pacific Climate Indicators - setup](https://github.com/lauracagigal/indicators_setup): setup codes for climate indicators
+
