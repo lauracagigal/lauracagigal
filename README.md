@@ -10,7 +10,7 @@ My work focuses on bridging **large-scale climate** and **coastal impact assessm
 
 ## 🌟 About Me:
 - 🔬 I develop statistical and hybrid models to simulate coastal processes under climate change scenarios
-- - 🧠 Interested in combining physics-based models with data-driven approaches  
+- 🧠 Interested in combining physics-based models with data-driven approaches  
 - 🔭 I’m currently working on climate-related coastal research and on the development of open source repositories.
 - 🛠️ Strong background in Python, scientific computing, and large-scale data analysis  
 - 📫 Reach me at: [laura.cagigal@unican.es](mailto:laura.cagigal@unican.es)
